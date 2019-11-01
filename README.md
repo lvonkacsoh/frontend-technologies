@@ -11,3 +11,11 @@ Tutorial from [here](https://www.freecodecamp.org/news/how-to-build-a-movie-sear
 ## Real-time Chat App with Pusher and Vue.js
 
 Tutorial from [here](https://www.sitepoint.com/pusher-vue-real-time-chat-app/)
+
+## Angular 8 Web App (minimus)
+
+verworfen - tutorial hat eher zu copy-paste animiert
+
+## Svelte TO-DO App
+
+Tutorial from [here](https://medium.com/codingthesmartway-com-blog/building-a-svelte-3-todo-app-from-start-to-deployment-1737f72c23a6)
