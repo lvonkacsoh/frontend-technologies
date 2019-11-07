@@ -19,3 +19,8 @@ verworfen - tutorial hat eher zu copy-paste animiert
 ## Svelte TO-DO App
 
 Tutorial from [here](https://medium.com/codingthesmartway-com-blog/building-a-svelte-3-todo-app-from-start-to-deployment-1737f72c23a6)
+
+## Nuxt.js i18n blog
+
+Tutorial from [here](https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial)
+ -> nicht wirklich toll. storyblok hat sein layout verändert und "adding other languages" ist ein stumpf.
