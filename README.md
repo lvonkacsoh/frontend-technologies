@@ -24,3 +24,6 @@ Tutorial from [here](https://medium.com/codingthesmartway-com-blog/building-a-sv
 
 Tutorial from [here](https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial)
  -> nicht wirklich toll. storyblok hat sein layout verändert und "adding other languages" ist ein stumpf.
+
+## My first PWA (a Weather-App)
+Tutorial from [here](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
